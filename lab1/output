@@ -1,0 +1,14 @@
+Bubble sort:
+
+Enter the number of elements in the array: 6
+array before bubble sort:
+38 39 80 93 60 5 
+
+array after bubble sort:5 38 39 60 80 93 
+Count: 7
+Time taken for bubble sort: 0.000002 seconds
+*********************************************
+Selection sort:
+
+Original array: 89 45 64 25 12 4 22 11 3 
+Sorted array: 3 4 11 12 22 25 45 64 89 
